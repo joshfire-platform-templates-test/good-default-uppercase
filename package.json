@@ -1,0 +1,19 @@
+{
+  "name": "DEFAULT",
+  "version": "0.0.42",
+  "fullName": "Base template",
+  "description": "",
+  "keywords": [
+     "default",
+     "copy",
+     "uppercase"
+   ],
+  "joshfire": {
+    "devices": [
+      {
+        "devices": "*",
+        "startfile": "app/index.html"
+      }
+    ]
+  }
+}
